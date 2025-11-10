@@ -39,10 +39,6 @@ perangkat.
     -   AccelStepper
 5.  Upload dan ikuti wiring.
 
-## Link Video agar bisa dilihat tanpa di download
-
-https://drive.google.com/drive/folders/1TeP_BNRMqFccAvwgy8TqlvJXgJOdUosO?usp=sharing
-
 ## Kesimpulan dari Praktikum RTOS ini dengan ESP32S3
 
 Praktikum ini memberikan pemahaman mendalam mengenai cara kerja FreeRTOS pada platform ESP32-S3, terutama dalam menjalankan beberapa peripheral secara bersamaan. Dari seluruh percobaan, dapat disimpulkan bahwa:
