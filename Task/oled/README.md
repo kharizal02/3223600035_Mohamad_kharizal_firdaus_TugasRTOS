@@ -50,8 +50,8 @@ Semua pekerjaan dilakukan oleh FreeRTOS task.
 -   ESP32 / ESP32‑S3
 -   OLED 128x64 I2C (0x3C)
 -   Pin default I2C:
-    -   SDA → GPIO 21 (ESP32) / konfigurasi S3
-    -   SCL → GPIO 22 (ESP32) / konfigurasi S3
+    -   SDA → GPIO 8 (ESP32) / konfigurasi S3
+    -   SCL → GPIO 9 (ESP32) / konfigurasi S3
 
 ## Output yang Ditampilkan di OLED
 
