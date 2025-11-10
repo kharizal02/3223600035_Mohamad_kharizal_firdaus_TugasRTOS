@@ -22,7 +22,7 @@ menggunakan ESP32-S3, masing-masing dilengkapi dengan:
 
 ## Deskripsi
 
-Setiap folder berisi: - sketch.ino - wiring.png - video (core0 / core1)
+Setiap folder berisi: - sketch.ino - wiring.png - video (core0 / core1) - dan sebuah readme penjelasan serta video nya
 
 Folder "Gabungan semua peripheral" berisi proyek integrasi dari seluruh
 perangkat.
