@@ -71,3 +71,17 @@ Task dijalankan pada **core 1**.
    - GND → GND  
 2. Upload kode ke ESP32.  
 3. Putar encoder → lihat nilai naik/turun pada Serial Monitor.
+
+
+# Video demo menggunakan core 1
+
+
+
+https://github.com/user-attachments/assets/37a53c30-82f3-42cd-875c-7e474aeca51d
+
+
+# Video demo menggunakan core 0
+
+
+https://github.com/user-attachments/assets/e52391dd-8791-4973-83af-15661a817ecc
+

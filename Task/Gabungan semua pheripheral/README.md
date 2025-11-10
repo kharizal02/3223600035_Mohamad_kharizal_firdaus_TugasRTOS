@@ -107,3 +107,10 @@ Proyek ini mengoptimalkan core sebagai berikut:
 - Ground harus **shared** dengan ESP32.
 - Buzzer menggunakan manual PWM, bukan `tone()`, agar tidak berbenturan dengan servo (timer conflict).
 - Setiap task memiliki stack 2048–4096 byte agar stabil.
+
+# Video demo
+
+
+
+https://github.com/user-attachments/assets/f70c7051-e9b0-4ec0-b754-e42f77d2bcf7
+

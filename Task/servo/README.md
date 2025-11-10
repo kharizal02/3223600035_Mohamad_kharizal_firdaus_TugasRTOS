@@ -59,3 +59,18 @@ xTaskCreatePinnedToCore(TaskServo, "SERVO", 4096, NULL, 1, NULL, 1);
    - GND → GND  
 2. Upload program ke ESP32.
 3. Servo akan bergerak otomatis ke tiga posisi.
+
+# Video demo menggunakna core1
+
+
+
+https://github.com/user-attachments/assets/cde89a41-2b46-4cec-844e-5ac09b98d368
+
+
+
+
+# Video demo menggunakan core0
+
+https://github.com/user-attachments/assets/bc65283f-29b8-47e8-afc5-0abb5a4ad0d9
+
+ggunakna core0

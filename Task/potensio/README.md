@@ -42,3 +42,14 @@ Task dijalankan di **core 1** dengan stack 2048 byte dan priority 1.
 2. Upload kode ke ESP32/ESP32-S3.
 3. Buka Serial Monitor → lihat perubahan nilai saat memutar potensiometer.
 
+# Video Demo Menggunakan core1
+
+
+https://github.com/user-attachments/assets/cb0b145f-1d4a-4168-8abb-678318dcd3b5
+
+
+# Video Demo Menggunakan core0
+
+
+https://github.com/user-attachments/assets/0ae4aa6a-9763-4ff2-8215-a531151bc72f
+

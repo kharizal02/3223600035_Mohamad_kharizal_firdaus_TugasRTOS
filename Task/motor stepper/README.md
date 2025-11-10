@@ -48,7 +48,15 @@ Pastikan driver motor (A4988/DRV8825/dll) sudah disetel arusnya dan memiliki pow
 
 
 
+https://github.com/user-attachments/assets/afb83d8a-41bd-4b00-a561-9e2c957033f6
+
+
+
 # Video demo Menggunakan core0
+
+
+https://github.com/user-attachments/assets/8ce3045d-497c-464e-9f05-161c2a37d725
+
 
 
 
