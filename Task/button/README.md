@@ -1,11 +1,19 @@
+
 # Video core1
 
-https://github.com/user-attachments/assets/a3cd6c4b-b2d5-491b-8b9f-0cf9df4ca3d9
+
+
+
+https://github.com/user-attachments/assets/05b69536-9b42-428c-a6f6-543674cc3cdf
+
 
 
 # Video core0
 
-https://github.com/user-attachments/assets/f104b979-efa4-4923-99db-e6cdfc412dde
+
+
+https://github.com/user-attachments/assets/0a8f05cc-ffdf-4164-be27-56413ca8b439
+
 
 
 
