@@ -1,6 +1,6 @@
 # **Program Task untuk masing-masing pheripheral **
 
-Dokumentasi ini menjelaskan bagaimana project ESP32-S3 menjalankan banyak peripheral secara paralel menggunakan FreeRTOS dual-core, serta analisa mengapa kombinasi task tertentu berjalan normal sedangkan kombinasi lain menyebabkan beberapa peripheral berhenti (stepper, encoder, servo) dan juga ada Video Demo nya diakhir README.
+Dokumentasi ini menjelaskan bagaimana ESP32-S3 menjalankan banyak peripheral secara paralel menggunakan FreeRTOS dual-core, serta analisa mengapa kombinasi task tertentu berjalan normal sedangkan kombinasi lain menyebabkan beberapa peripheral berhenti (stepper, encoder, servo) dan juga ada Video Demo nya diakhir README.
 ---
 
 # ✅ 1. Deskripsi Project
