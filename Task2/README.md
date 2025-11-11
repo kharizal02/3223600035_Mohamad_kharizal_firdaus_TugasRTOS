@@ -2,6 +2,10 @@
 
 # Video demo core 0 dan core 1 di pakai semua dengan priority task sama semua
 
+
+https://github.com/user-attachments/assets/5ccd06ca-7a3c-4dcd-94ab-29f9967958b1
+
+
 Repository ini berisi kumpulan tugas implementasi berbagai peripheral
 menggunakan ESP32-S3, masing-masing dilengkapi dengan:
 
