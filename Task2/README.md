@@ -1,4 +1,6 @@
-# Task -- ESP32-S3 FreeRTOS Peripheral Collection
+# **Program Task untuk masing-masing pheripheral **
+
+# Video demo core 0 dan core 1 di pakai semua dengan priority task sama semua
 
 Repository ini berisi kumpulan tugas implementasi berbagai peripheral
 menggunakan ESP32-S3, masing-masing dilengkapi dengan:
