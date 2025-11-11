@@ -119,3 +119,7 @@ Hasilnya → peripheral lain terlihat “mati”.
 https://github.com/user-attachments/assets/5ccd06ca-7a3c-4dcd-94ab-29f9967958b1
 
 # Video demo core 0 dan core 1 di pakai semua dengan priority task buzzer 10 
+
+
+https://github.com/user-attachments/assets/a9623c52-f081-4792-b8c5-b1d9cfe3aca9
+
