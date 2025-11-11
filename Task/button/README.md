@@ -22,7 +22,6 @@ Task ini digunakan untuk membaca dua tombol pada ESP32-S3 menggunakan mekanisme 
 - Buka Serial Monitor dengan baud 115200 untuk melihat output.
 
 
-
 # Video demo menggunakan core1
 
 
